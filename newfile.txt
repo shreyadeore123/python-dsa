@@ -1,15 +1,1 @@
-DEBUG:root:this indicate the debugging information
-INFO:root:this indicate the important inforamation
-ERROR:root:this indicate the error information
-WARNING:root:this indicate the warning inforamation
-CRITICAL:root:this indicate the critiacl information
-DEBUG:root:this indicate the debugging information
-INFO:root:this indicate the important inforamation
-ERROR:root:this indicate the error information
-WARNING:root:this indicate the warning inforamation
-CRITICAL:root:this indicate the critiacl information
-DEBUG:root:this indicate the debugging information
-INFO:root:this indicate the important inforamation
-ERROR:root:this indicate the error information
-WARNING:root:this indicate the warning inforamation
-CRITICAL:root:this indicate the critiacl information
+shreyariyaanu
